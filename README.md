@@ -29,7 +29,7 @@ What we expect that you learn from us:
 
 ## Considerations
 
-- We won't limit your choice of tools or libraries. But make choices that suits your needs. There's no need to use a bazooka to kill an ant but the point of the challenge is to evaluate your skills.
+- Although we won't limit your choice of tools or libraries. Make choices that suits your needs, but try keeping it at minimum.
 - Despite not having a time limit, we recommend that you don't spend more than **6 to 12 hours** working on this challenge.
 - Assignment holds valuable importance in our hiring process.
 - Try to write the best code you possibly can. It will make our life easier when evaluating your solution. And remember: you'll have to explain it in person for us.
