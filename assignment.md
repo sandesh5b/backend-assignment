@@ -7,7 +7,7 @@ Challenge is to build a cross functional User's Management (Frontend App, iOS/An
 - All users need to be uniquely identified
 - All api's required authentication.
 - Authorization of API endpoints based upon Type of User.
-- *BONUS* Mapping of sub-accounts with main User
+- Map sub-accounts with main User **BONUS** 
 
 ## Requirements
 
@@ -21,7 +21,7 @@ Challenge is to build a cross functional User's Management (Frontend App, iOS/An
     - PAN / GSTIN
     - Address
     
-- Subaccounts (Bonus)
+- Subaccounts **(Bonus)**
     - email id
     - mobile
     - name
