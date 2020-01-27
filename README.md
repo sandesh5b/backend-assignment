@@ -23,7 +23,7 @@ What we expect that you learn from us:
 ## Next steps
 
 1. Fork this repository to your personal account.
-2. Follow the instructions in the [`challenge`](/assignment) file.
+2. Follow the instructions in the [`challenge`](/assignment.md) file.
 3. Solve the challenge in the best way you can.
 4. Send us a Pull Request with your solution.
 
